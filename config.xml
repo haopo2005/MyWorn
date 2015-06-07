@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312"?>
+<config>
+	<配置 
+	   数据库路径一="e:\web"
+	   数据库路径二="e:\web doc"
+	   初始url地址="http://www.meizitu.com/a/4934.html"
+	   休眠时间="1"
+	   图片路径="e:\meinv\"
+	   >
+	   <过滤包含 url="http://www.meizitu.com/a/"/>
+	   <下载包含 url="http://pic.meizitu.com/wp-content/uploads/"/>
+	</配置>
+</config>
